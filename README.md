@@ -105,3 +105,4 @@ bash nvim-ide deploy
 - [fzf](https://github.com/junegunn/fzf.vim)
 - [which-key](https://github.com/liuchengxu/vim-which-key)
 
+whyops 的提交
